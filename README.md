@@ -68,9 +68,9 @@ I'm a student and Backend .NET Developer.
 <!-- /SKILLS -->
 <!-- LINKS -->
 
-<h2 align="left">👀 Links</h2>
+<!-- <h2 align="left">👀 Links</h2>
 
-![Stepik](https://stepik.org/users/335349508)
+![Stepik](https://stepik.org/users/335349508) -->
 
 <!-- /LINKS -->
 <!-- /BODY -->
