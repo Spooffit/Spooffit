@@ -4,7 +4,20 @@ I'm a student and Backend .NET Developer.
 
 <h1></h1>
 
-![](https://komarev.com/ghpvc/?username=spooffit)
+<div align="center" id="badges">
+  <a href="https://leetcode.com/Spooffit/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://www.codewars.com/users/Spooffit">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars Badge"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=spooffit">
+</div>
 
 <h1></h1>
 
@@ -54,10 +67,6 @@ I'm a student and Backend .NET Developer.
 <!-- LINKS -->
 
 <h2 align="left">👀 Links</h2>
-
-![LeetCode](https://leetcode.com/Spooffit/)
-
-![CodeWars](https://www.codewars.com/users/Spooffit)
 
 ![Stepik](https://stepik.org/users/335349508)
 
