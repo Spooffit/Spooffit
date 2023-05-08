@@ -63,6 +63,8 @@ I'm a student and Backend .NET Developer.
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Spooffit&theme=dark)](https://github.com/Spooffit/leetcode-stats)
 
+![CodeWars Stats](https://www.codewars.com/users/Spooffit/badges/large)
+
 <!-- /SKILLS -->
 <!-- LINKS -->
 
