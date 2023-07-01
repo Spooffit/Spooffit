@@ -1,76 +1,35 @@
-<!-- HEAD -->
-<h2 align="left">Hi there, I'm Spooffit 😉</h2>
+<h2 align="left">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="30" height="30" /></h2>
 I'm a student and Backend .NET Developer. 
 
-<h1></h1>
+<hr>
 
-<div align="center" id="badges">
-  <a href="https://leetcode.com/Spooffit/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge"/>
-  </a>
-  <a href="https://www.codewars.com/users/Spooffit">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars Badge"/>
-  </a>
-</div>
+[![](https://visitcount.itsvg.in/api?id=Spooffit&icon=8&color=12)](https://visitcount.itsvg.in)
 
-<br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=spooffit">
-</div>
-
-<h1></h1>
-
-<!-- /HEAD -->
-
-<!-- BODY -->
-
-<!-- SKILLS -->
-<h2 align="left">⚡ Skills</h2>
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> Tech Stack</h2>
 
 ![](https://img.shields.io/badge/Platform-.NET-%23512BD4?style=for-the-badge&logo=appveyor&logo=.NET)
 
 ![](https://img.shields.io/badge/Code-C%23-%23512BD4?style=flat-square&logo=Csharp)
-![](https://img.shields.io/badge/Framework-ASP.NET%206%20%2F%207-%23512BD4?style=flat-square&logo=.NET)
 ![](https://img.shields.io/badge/Framework-ASP.NET%20Core-%23512BD4?style=flat-square&logo=.NET)
 ![](https://img.shields.io/badge/ORM-Entity%20Framework-%23512BD4?style=flat-square&logo=.NET)
 
 <br>
 
 ![](https://img.shields.io/badge/Code-HTML5-%23E34F26?style=flat-square&logo=HTML5)
+![](https://img.shields.io/badge/Style-CSS3-%231572B6?style=flat-square&logo=CSS3)
 ![](https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript)
 
-<br>
 
-![](https://img.shields.io/badge/Style-CSS3-%231572B6?style=flat-square&logo=CSS3)
-![](https://img.shields.io/badge/Style-Bootstrap-%237952B3?style=flat-square&logo=Bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Style-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=white)
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> GitHub Stats</h2>
 
-<br>
+![](https://github-readme-stats.vercel.app/api?username=Spooffit&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Spooffit&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spooffit&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://img.shields.io/badge/Database-MS%20SQL-%23f8c73a?style=flat-square&logo=Microsoft%20SQL%20Server)
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="30" height="30" /> Other Stast</h2>
 
-<br>
-
-![](https://img.shields.io/badge/Tools-Git-%23F05032?style=flat-square&logo=git)
-![](https://img.shields.io/badge/Tools-GitHub-%23181717?style=flat-square&logo=GitHub)
-
-<h2 align="left">🔥 Stats</h2>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=spooffit&theme=transparent&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spooffit&layout=compact&theme=transparent)](https://github.com/spooffit/github-readme-stats)
-
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Spooffit&theme=dark)](https://github.com/Spooffit/leetcode-stats)
-
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Spooffit&theme=dark)](https://github.com/Spooffit/leetcode-stats)<br/>
 ![CodeWars Stats](https://www.codewars.com/users/Spooffit/badges/large)
 
-<!-- /SKILLS -->
-<!-- LINKS -->
 
-<!-- <h2 align="left">👀 Links</h2>
-
-![Stepik](https://stepik.org/users/335349508) -->
-
-<!-- /LINKS -->
-<!-- /BODY -->
