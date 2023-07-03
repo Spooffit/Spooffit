@@ -26,7 +26,7 @@ I'm a student and Backend .NET Developer.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Spooffit&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spooffit&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="30" height="30" /> Other Stast</h2>
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="30" height="30" /> Other Stats</h2>
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Spooffit&theme=dark)](https://github.com/Spooffit/leetcode-stats)<br/>
 ![CodeWars Stats](https://www.codewars.com/users/Spooffit/badges/large)
