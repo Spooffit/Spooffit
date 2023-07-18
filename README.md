@@ -2,7 +2,7 @@
 
 I'm a student and Backend .NET Developer. 
 
-[![](https://visitcount.itsvg.in/api?id=Spooffit&icon=8&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Spooffit&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
 <h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> Tech Stack</h2>
