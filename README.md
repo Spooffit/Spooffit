@@ -28,7 +28,7 @@ I'm a student and Backend .NET Developer.
 
 <h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="30" height="30" /> Other Stats</h2>
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Spooffit&theme=dark)](https://github.com/Spooffit/leetcode-stats)<br/>
-![CodeWars Stats](https://www.codewars.com/users/Spooffit/badges/large)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Spooffit&theme=dark)](https://leetcode.com/Spooffit/)<br/>
+[![CodeWars stats](https://www.codewars.com/users/Spooffit/badges/large)](https://www.codewars.com/users/Spooffit)
 
 
