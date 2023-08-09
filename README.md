@@ -1,7 +1,5 @@
 <h2 align="left">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="30" height="30" /></h2>
 
-I'm a student and Backend .NET Developer. 
-
 [![](https://visitcount.itsvg.in/api?id=Spooffit&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
