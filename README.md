@@ -26,7 +26,7 @@
 
 <h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="30" height="30" /> Other Stats</h2>
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Spooffit&theme=dark)](https://leetcode.com/Spooffit/)<br/>
+[![Leetcode stats](https://leetcard.jacoblin.cool/Spooffit?theme=dark)](https://leetcode.com/Spooffit/)<br/>
 [![CodeWars stats](https://www.codewars.com/users/Spooffit/badges/large)](https://www.codewars.com/users/Spooffit)
 
 
