@@ -11,13 +11,6 @@
 ![](https://img.shields.io/badge/Framework-ASP.NET%20Core-%23512BD4?style=flat-square&logo=.NET)
 ![](https://img.shields.io/badge/ORM-Entity%20Framework-%23512BD4?style=flat-square&logo=.NET)
 
-<br>
-
-![](https://img.shields.io/badge/Code-HTML5-%23E34F26?style=flat-square&logo=HTML5)
-![](https://img.shields.io/badge/Style-CSS3-%231572B6?style=flat-square&logo=CSS3)
-![](https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript)
-
-
 <h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> GitHub Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=Spooffit&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
